@@ -6,7 +6,9 @@ Read this file fully before planning or editing. Keep it under 150 lines; depth 
 
 A WordPress plugin for building forms (contact us, sales, etc.) and conversational forms (multi-step, one question at a time, conditional branching).
 
-The tech stack, minimum WordPress/PHP versions, and tooling are undecided — **never** assume them; ask.
+**Targets WordPress 7.1+ and PHP 8.4+**, chosen so modern code and components can be used easily. **Never** add fallbacks, polyfills, or compatibility code for older WordPress or PHP versions.
+
+The rest of the tech stack and tooling is undecided — **never** assume it; ask.
 
 ## 2. Single Sources of Truth
 

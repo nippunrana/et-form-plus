@@ -19,4 +19,4 @@ Everyday forms such as contact us, sales, etc.
 
 ## Not decided yet
 
-Everything beyond the description above. It gets decided in the planning and research pass when this plan is picked up.
+Everything beyond the description above and the version targets in `ai-context.md`. It gets decided in the planning and research pass when this plan is picked up.
